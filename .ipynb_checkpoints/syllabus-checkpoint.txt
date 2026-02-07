@@ -1,0 +1,42 @@
+2. Data Frames and Basic Data Pre-processing
+- Read data from CSV and JSON files into a data frame.
+- Perform basic data pre-processing tasks such as handling missing values and outliers.
+- Manipulate and transform data using functions like filtering, sorting, and grouping.
+
+3. Feature Scaling and Dummification
+- Apply feature-scaling techniques like standardization and normalization to numerical features.
+- Perform feature dummification to convert categorical variables into numerical representations.
+
+4. Hypothesis Testing
+- Formulate null and alternative hypotheses for a given problem.
+- Conduct a hypothesis test using appropriate statistical tests (e.g., t-test, chi-square test).
+- Interpret the results and draw conclusions based on the test outcomes.
+
+5. ANOVA (Analysis of Variance)
+- Perform one-way ANOVA to compare means across multiple groups.
+- Conduct post-hoc tests to identify significant differences between group means.
+
+6. Regression and Its Types
+- Implement simple linear regression using a dataset.
+- Explore and interpret the regression model coefficients and goodness-of-fit measures.
+- Extend the analysis to multiple linear regression and assess the impact of additional predictors.
+
+7. Logistic Regression and Decision Tree
+- Build a logistic regression model to predict a binary outcome.
+- Evaluate the model's performance using classification metrics (e.g., accuracy, precision, recall).
+- Construct a decision tree model and interpret the decision rules for classification.
+
+8. K-Means Clustering
+- Apply the K-Means algorithm to group similar data points into clusters.
+- Determine the optimal number of clusters using elbow method or silhouette analysis.
+- Visualize the clustering results and analyze the cluster characteristics.
+
+9. Principal Component Analysis (PCA)
+- Perform PCA on a dataset to reduce dimensionality.
+- Evaluate the explained variance and select the appropriate number of principal components.
+- Visualize the data in the reduced-dimensional space.
+
+10. Data Visualization and Storytelling
+- Create meaningful visualizations using data visualization tools.
+- Combine multiple visualizations to tell a compelling data story.
+- Present the findings and insights in a clear and concise manner.
